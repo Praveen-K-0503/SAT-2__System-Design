@@ -1,0 +1,1 @@
+{"name":"quick-commerce-round3","version":"1.0.0","description":"Food and Grocery Quick-Commerce Platform HLD demo","main":"src/server.js","scripts":{"start":"node src/server.js","test":"node test/smoke-test.js"},"engines":{"node":">=18"},"license":"MIT"}
